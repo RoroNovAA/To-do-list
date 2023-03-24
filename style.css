@@ -1,3 +1,6 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Poppins:ital,wght@0,500;1,200&family=Ubuntu&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +9,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #ec7d33, #886d4a, #68cee2);
+    background-image: linear-gradient(to right, #cc2b5e , #753a88   );
     margin: 50px 2%;
 }
 
@@ -61,10 +64,11 @@ body {
     border-color: #333;
     background-color: white;
     font-size: 20px;
-}
+    
+    }
 
 .buttoninput:hover {
-    background-color:  #8f8acc;
+    background-color:  #ca2089;
     color: white;
 }
 
